@@ -1,0 +1,6 @@
+root = true
+
+[**/**.{astro,cjs,conf,js,json,jsx,html,mjs,ts,tsx,yml}]
+indent_style = space
+indent_size = 2
+insert_final_newline = true
